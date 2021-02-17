@@ -1,0 +1,87 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+hr{
+  border-style: dotted none none none;
+  width: 15%;
+  border-width: 1.25rem;
+  color: #eee;
+  margin-top: 2rem;
+}
+h2{
+  margin: 50px auto 0 auto ;
+font-family: 'Ballet', cursive;
+font-weight: bold;
+}
+/* top */
+.top{
+  position: relative;
+  padding-top: 100px;
+  background-color: #f4f4f2;
+}
+h1{
+  margin: 50px auto 0 auto ;
+font-family: 'Ballet', cursive;
+font-weight: bold;
+
+}
+p{
+  font-size: 1.28rem
+}
+span{
+  text-decoration: underline;
+}
+.mountain{
+  width: 40%;
+}
+.top-cloud{
+  position: absolute;
+  top: 5rem;
+  right: 18rem;
+
+}
+.bottom-cloud{
+  position: absolute;
+  top: 15rem;
+  left:18rem;
+}
+/* centre */
+
+.profile{
+  padding-top: 3rem;
+}
+
+.dp{
+  width: 15%;
+  padding-top: 2rem;
+}
+.row{
+  margin: 3rem auto 0 auto;
+}
+.card{
+  margin: 0 1.5rem;
+}
+.card:hover{
+  background-color: #f4f4f2;
+}
+.get-to-me{
+  padding: 1.5rem 0;
+}
+.btn{
+  margin-bottom: 1.5rem;
+}
+/* Bottom */
+.bottom{
+  background-color: #495464;
+  padding: 5rem 0 3rem;
+}
+.footer-link{
+  margin: 1rem 2.5rem;
+}
+.copyright{
+  margin: 2.5rem auto 0;
+}
